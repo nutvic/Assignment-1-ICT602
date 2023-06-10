@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyBills Calculator</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="developers">Developers:</string>
+    <string name="name1">MUHAMAD ZAQRUL BIN ABDUL LATIB</string>
+    <string name="matrixandclass2">2021127603/(RCS2405A)</string>
+    <string name="course3">ICT602</string>
+    <string name="copyright_statement">© Year Your Company Name. All rights reserved.</string>
+</resources>
